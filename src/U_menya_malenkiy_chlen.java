@@ -1,8 +1,9 @@
 /**
- * Created by Владислав on 05.05.2015.
+ * Created by Р’Р»Р°РґРёСЃР»Р°РІ on 05.05.2015.
  */
 public class U_menya_malenkiy_chlen {
-    public static void main(String[] args) {
+    public void main() {
         System.out.println("Nazvanie klassa nepravdivoe!");
+        System.out.println("And it is true! ;)");
     }
 }
